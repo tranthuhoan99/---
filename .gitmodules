@@ -1,3 +1,6 @@
 [submodule "unit"]
 	path = unit
 	url = https://github.com/laughingmirea/Hoang_Anh_flower.git
+[submodule "WebFlowers"]
+	path = WebFlowers
+	url = https://github.com/Na-Tyan/WebFlowers.git
