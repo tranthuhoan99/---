@@ -26,7 +26,7 @@
 <li><a href="login.php"><i class="icon fa fa-sign-in"></i>Login</a></li>
 <?php }
 else{ ?>
-				<li><a href="../Web-flowers/ru/index.php"><i class="icon fa fa-globe-in"></i>RU</a></li>
+				<li><a href=".ru/index.php"><i class="icon fa fa-globe-in"></i>RU</a></li>
 				<li><a href="logout.php"><i class="icon fa fa-sign-out"></i>Logout</a></li>
 				<?php } ?>	
 				</ul>
