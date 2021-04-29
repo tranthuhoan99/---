@@ -97,7 +97,7 @@ Log in with the demo accounts available to take full advantage of the features.
 
 <p align="center">
   <br/>
-  <img src="https://drive.google.com/file/d/1n9kLKakFWZ2-40X1bcX1_u0k7w2WVWAR/view?usp=sharing" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
+  <img src="https://static.wikia.nocookie.net/thedivision/images/3/33/SHD_Devices.png/revision/latest?cb=20201103043003" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
   <br/>
 </p>
 
