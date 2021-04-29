@@ -4,7 +4,7 @@
 
 <p align="center">
   <br/>
-  <img src="images/background/demo_readme.png" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
+  <img src="unit/Web/demo_1.png" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
   <br/>
   <br/>
 </p>
@@ -35,7 +35,7 @@
 - [Bootstrap](https://getbootstrap.com)
 - [FontAwesome](https://fontawesome.com)
 - [JQuery](https://jquery.com)
-- [Perfect scrollbar] (https://github.com/mdbootstrap/perfect-scrollbar)
+- [Perfect scrollbar](https://github.com/mdbootstrap/perfect-scrollbar)
 - [GoogleFont](https://fonts.google.com/)
 - [Lightbox](https://lokeshdhakar.com/projects/lightbox2/)
 - [Owl carousel](https://owlcarousel2.github.io/OwlCarousel2/)
@@ -97,7 +97,7 @@ Log in with the demo accounts available to take full advantage of the features.
 
 <p align="center">
   <br/>
-  <img src="https://drive.google.com/file/d/1n9kLKakFWZ2-40X1bcX1_u0k7w2WVWAR/view?usp=sharing" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
+  <img src="https://static.wikia.nocookie.net/thedivision/images/3/33/SHD_Devices.png/revision/latest?cb=20201103043003" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
   <br/>
 </p>
 
