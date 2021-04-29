@@ -35,7 +35,7 @@
 - [Bootstrap](https://getbootstrap.com)
 - [FontAwesome](https://fontawesome.com)
 - [JQuery](https://jquery.com)
-- [Perfect scrollbar] (https://github.com/mdbootstrap/perfect-scrollbar)
+- [Perfect scrollbar](https://github.com/mdbootstrap/perfect-scrollbar)
 - [GoogleFont](https://fonts.google.com/)
 - [Lightbox](https://lokeshdhakar.com/projects/lightbox2/)
 - [Owl carousel](https://owlcarousel2.github.io/OwlCarousel2/)
