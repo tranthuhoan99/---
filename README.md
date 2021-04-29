@@ -49,7 +49,7 @@
 
 
 ## Использование
-Log in with the demo accounts available to take full advantage of the features.
+Войдите в систему с доступными демо-счетами, чтобы в полной мере воспользоваться всеми функциями.
 
 ### Demo accounts:
 
@@ -130,10 +130,3 @@ Log in with the demo accounts available to take full advantage of the features.
 3. Маковеев Андрей Александрович  [github@nekokami99](https://github.com/nekokami99)
 4. Чан Хоанг Ань  [github@laughingmirea](https://github.com/laughingmirea)
 
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- [000webhost](https://www.000webhost.com)
-- [GoDaddy](https://godaddy.com/)
-- [dinhcuong.me](https://dinhcuong.me/)
