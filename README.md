@@ -4,7 +4,7 @@
 
 <p align="center">
   <br/>
-  <img src="images/background/demo_readme.png" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
+  <img src="unit/Web/demo_1.png" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
   <br/>
   <br/>
 </p>
