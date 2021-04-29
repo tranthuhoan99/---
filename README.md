@@ -61,7 +61,7 @@ Log in with the demo accounts available to take full advantage of the features.
 
 <p align="center">
   <br/>
-  <img src="https://drive.google.com/file/d/1X2uF0roTqvJuxWcCmCZeZsiB4voK8xOI/view?usp=sharing" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
+  <img src="Image_Ready/home_en.png" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
   <br/>
 </p>
 
