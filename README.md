@@ -14,7 +14,7 @@
 
 <p align="center">
   <br/>
-  <img src="assets/images/favicon.png" alt="Logo" width="50%" style="border-radius: 10px" height="auto">
+  <img src="assets/images/favicon.png" alt="Logo" width="30%" style="border-radius: 10px" height="auto">
   <br/>
   <br/>
 </p>
