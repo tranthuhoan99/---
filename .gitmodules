@@ -4,3 +4,6 @@
 [submodule "WebFlowers"]
 	path = WebFlowers
 	url = https://github.com/Na-Tyan/WebFlowers.git
+[submodule "Mirea-Web"]
+	path = Mirea-Web
+	url = https://github.com/WILDLIFE14/Mirea-Web.git
