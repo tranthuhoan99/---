@@ -1,5 +1,15 @@
 <!-- ABOUT THE PROJECT -->
 
+ <h3 align="center">WEB PROJECT</h3>
+
+  <p align="center">
+    MIREA - RUSSIAN TECHNOLOGICAL UNIVERSITY
+    <br />
+    <a href="http://mirea-web-flower.0hi.me/ru/index.php/"><strong>View our website »</strong></a>
+    <br />
+    <br />
+  </p>
+
 ## О проекте
 
 <p align="center">
@@ -126,7 +136,7 @@
 ## Создатели
 
 1. Чан Тхи Тху Хоан [github@tranthuhoan99](https://github.com/tranthuhoan99)
-2. Корзун Надежда Алексеевна  [github@xuancanhit99](https://github.com/Na-Tyan)
+2. Корзун Надежда Алексеевна  [github@Na-Tyan](https://github.com/Na-Tyan)
 3. Маковеев Андрей Александрович  [github@nekokami99](https://github.com/nekokami99)
 4. Чан Хоанг Ань  [github@laughingmirea](https://github.com/laughingmirea)
 
