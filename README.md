@@ -3,7 +3,7 @@
  <h3 align="center">WEB PROJECT</h3>
 
   <p align="center">
-    MIREA - RUSSIAN TECHNOLOGICAL UNIVERSITY
+    FLOWERS SHOP
     <br />
     <a href="http://mirea-web-flower.0hi.me/ru/index.php/"><strong>View our website »</strong></a>
     <br />
@@ -14,7 +14,7 @@
 
 <p align="center">
   <br/>
-  <img src="images/background/demo_readme.png" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
+  <img src="assets/images/favicon.png" alt="Logo" width="80%" style="border-radius: 10px" height="auto">
   <br/>
   <br/>
 </p>
@@ -57,17 +57,16 @@
 - Microsoft Edge
 - Chrome.
 
-
 ## Использование
 Войдите в систему с доступными демо-счетами, чтобы в полной мере воспользоваться всеми функциями.
 
-### Demo accounts:
+### Демо аккаунты:
 
-- [For student] Email: le.d@edu.mirea.ru | Password: 123456789
-- [For editor] Email: editor@edu.mirea.ru | Password: 123456789
-- [For admin] Email: admin@edu.mirea.ru | Password: 123456789
+- [Для покупателя 1] Email: anna@gmail.com | Password: 12345678
+- [Для покупателя 2] Email: hoanganhmirea@gmail.com | Password: 123456789
+- [Для администратора] Email: admin | Password: 123456789
 
-### Demo screenshots
+### Демо скриншоты:
 
 <p align="center">
   <br/>
@@ -137,6 +136,6 @@
 
 1. Чан Тхи Тху Хоан [github@tranthuhoan99](https://github.com/tranthuhoan99)
 2. Корзун Надежда Алексеевна  [github@Na-Tyan](https://github.com/Na-Tyan)
-3. Маковеев Андрей Александрович  [github@nekokami99](https://github.com/nekokami99)
+3. Маковеев Андрей Александрович  [github@WILDFIFE14](https://github.com/WILDLIFE14)
 4. Чан Хоанг Ань  [github@laughingmirea](https://github.com/laughingmirea)
 
